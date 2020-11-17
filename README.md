@@ -29,16 +29,18 @@
 ■出品者用  
 メールアドレス名:  sample101@sample.com  
 パスワード: seller1234  
-Githubリポジトリ  
-https://github.com/bigpowermind/fleamarket_sample_78a  
+
 
 # 開発状況  
-開発環境  
+■開発環境  
 Ruby/Ruby on Rails/MySQL/Github/AWS/Visual Studio Code  
-開発期間と平均作業時間  
+
+■開発期間と平均作業時間  
 開発期間：8/29~11/7  (71日間)  
 1日あたりの平均作業時間：3  
-開発体制  
+
+
+■開発体制  
 人数：2  
 アジャイル型開発（スクラム）  
 Trelloによるタスク管理  
