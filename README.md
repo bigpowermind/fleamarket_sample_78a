@@ -7,7 +7,8 @@
 ■アプリケーション概要  
 フリーマーケットのアプリケーションを作成しました。  
 
-![トップページ](app/assets/images/pict/README用の画像1.jpg) 
+![トップページ](app/assets/images/pict/README用の画像1.jpg)   
+![トップページ](app/assets/images/pict/README用の画像2.jpg) 
 
 ■接続先情報  
 ・URL http://18.182.74.43/  
