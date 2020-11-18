@@ -58,6 +58,18 @@ Chromeの最新版を利用してアクセスしてください。
 テストアカウントでログイン→トップページから出品ボタン押下→商品情報入力→商品出品  
 確認後、ログアウト処理をお願いします。  
 
+# DEMO
+![62ae4a7e71ee07f35bed66d32082b47f](https://user-images.githubusercontent.com/61393547/99582978-2e5e7c00-2a26-11eb-94de-9c34287ea12b.gif)
+
+
+![2bd38128b0c24927e516a0e00c1ec8f7](https://user-images.githubusercontent.com/61393547/99583314-a7f66a00-2a26-11eb-83c8-e58a2f530ed9.gif)
+
+![6209d9630e5a3fd84f6c43e02a857f40](https://user-images.githubusercontent.com/61393547/99583364-b93f7680-2a26-11eb-84b8-29f1d3e5b37c.gif)
+
+![01b7b5e66851a01bd8d1c3bb8aa54c9d](https://user-images.githubusercontent.com/61393547/99583545-058ab680-2a27-11eb-9e7c-38536514fdeb.gif)
+
+
+
 
 # 開発担当箇所  
 
