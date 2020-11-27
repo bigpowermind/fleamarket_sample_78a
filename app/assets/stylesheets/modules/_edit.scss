@@ -8,11 +8,9 @@
     height: 115px;
   }
 }
-
 .preview-edit {
   display: flex;
 }
-
 .js__editRemove {
   display: flex;
   .js-edit {
@@ -27,6 +25,5 @@
     flex-grow: 1;
   }
 }
-
 // 商品編集ページのフッター 
 @import "new-footer";
